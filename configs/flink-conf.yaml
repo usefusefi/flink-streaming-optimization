@@ -1,0 +1,6 @@
+jobmanager.rpc.address: jobmanager
+taskmanager.numberOfTaskSlots: 4
+parallelism.default: 2
+state.backend: rocksdb
+state.checkpoints.dir: file:///flink-checkpoints/
+state.savepoints.dir: file:///flink-savepoints/
