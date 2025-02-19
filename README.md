@@ -15,8 +15,7 @@ This repository contains **high-performance Flink streaming pipelines**, coverin
 ## **📂 Repository Structure**  
 - `/code_examples/` → PyFlink scripts for real-time processing.  
 - `/notebooks/` → Jupyter Notebook for interactive learning.  
-- `/configs/` → Flink tuning configurations & scripts.  
-- `/resources/` → Flink UI monitoring & performance tuning guides.  
+- `/configs/` → Flink tuning configurations & scripts.   
 
 ---
 
