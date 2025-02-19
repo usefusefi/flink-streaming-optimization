@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  jobmanager:
+    image: flink:latest
+    command: jobmanager
+    ports:
+      - "8081:8081"
+
+  taskmanager:
+    image: flink:latest
+    command: taskmanager
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    depends_on:
+      - jobmanager
