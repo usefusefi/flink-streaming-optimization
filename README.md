@@ -8,7 +8,7 @@ This repository contains **high-performance Flink streaming pipelines**, coverin
 ✅ **Optimizing Checkpoints & Fault Tolerance**  
 ✅ **Kafka + Flink + Elasticsearch Pipeline**  
 
-📖 **Read the Full Article on Medium:** [Link to Medium]()  
+📖 **Read the Full Article on Medium:** [Link to Medium](https://medium.com/@usefusefi/building-real-time-streaming-pipelines-with-apache-flink-pyflink-c8c2f26eebd8)  
 
 ---
 
