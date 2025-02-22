@@ -26,13 +26,10 @@ git clone https://github.com/usefusefi/flink-streaming-optimization.git
 cd flink-streaming-optimization
 ```
 
----
-
 ### **2️⃣ Run Example Flink Jobs**
 ```bash
 python code_examples/event_time_watermarks.py
 ```
----
 
 ### **3️⃣ Run Jupyter Notebook**
 ```bash
