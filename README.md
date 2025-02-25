@@ -8,18 +8,18 @@ This repository contains **high-performance Flink streaming pipelines**, coverin
 ✅ **Optimizing Checkpoints & Fault Tolerance**  
 ✅ **Kafka + Flink + Elasticsearch Pipeline**  
 
-📖 **Read the Full Article on Medium:** [Link to Medium](https://medium.com/@usefusefi/building-real-time-streaming-pipelines-with-apache-flink-pyflink-c8c2f26eebd8)  
+**Read the Full Article on Medium:** [Link to Medium](https://medium.com/@usefusefi/building-real-time-streaming-pipelines-with-apache-flink-pyflink-c8c2f26eebd8)  
 
 ---
 
-## **📂 Repository Structure**  
+## **Repository Structure**  
 - `/code_examples/` → PyFlink scripts for real-time processing.  
 - `/notebooks/` → Jupyter Notebook for interactive learning.  
 - `/configs/` → Flink tuning configurations & scripts.   
 
 ---
 
-## **🛠 How to Use**  
+## **How to Use**  
 ### **1️⃣ Clone this Repository**
 ```bash
 git clone https://github.com/usefusefi/flink-streaming-optimization.git
